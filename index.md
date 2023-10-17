@@ -23,7 +23,7 @@ Y se lo pedimos en español para que veamos que es lo que esta generando y vemos
 
 - Cual seria el prompt para decirle a ChatGPT que actue como analista financiero más completo que ayude al analisis de los estados financieros, dando sugerencias segun los datos ingresados?
 
-He aquí un ejemplo de aplicar la Meta Ingeniería de prompts.
+### He aquí un ejemplo de aplicar la Meta Ingeniería de prompts.
 
 Esta es el prompt que yo creé.
 
