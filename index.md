@@ -23,7 +23,6 @@ Y se lo pedimos en español para que veamos que es lo que esta generando y vemos
 
 - Cual seria el prompt para decirle a ChatGPT que actue como analista financiero más completo que ayude al analisis de los estados financieros, dando sugerencias segun los datos ingresados?
 
-
 He aquí un ejemplo de aplicar la Meta Ingeniería de prompts.
 
 Esta es el prompt que yo creé.
@@ -34,11 +33,11 @@ Y este es el prompt que me generó.
 
 Por supuesto, aquí tienes un prompt mejorado para generar un logotipo de un robot futurista de Star Wars con colores negros y rojos utilizando DALL-E:
 
-En español:
+**En español:**
 
 "Genera un logotipo que represente un robot futurista en el estilo de Star Wars. El diseño debe ser principalmente de color negro y rojo, con un enfoque en la elegancia y la tecnología avanzada."
 
-In English:
+**In English:**
 
 "Generate a logo representing a futuristic robot in the style of Star Wars. The design should primarily feature black and red colors, with an emphasis on elegance and advanced technology."
 
